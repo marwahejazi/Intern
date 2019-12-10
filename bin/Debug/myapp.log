@@ -1,0 +1,100 @@
+﻿2019-12-08 13:45:29,203 [1] INFO InfoLogger - App started
+2019-12-08 13:45:29,235 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 13:48:02,524 [1] INFO InfoLogger - App started
+2019-12-08 13:48:02,562 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 14:13:34,359 [1] INFO InfoLogger - App started
+2019-12-08 14:13:34,400 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 14:14:33,832 [1] INFO InfoLogger - App started
+2019-12-08 14:14:33,869 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 14:32:33,561 [1] INFO InfoLogger - App started
+2019-12-08 14:32:33,596 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 14:32:49,558 [1] INFO InfoLogger - App started
+2019-12-08 14:32:49,595 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 14:35:57,059 [1] INFO InfoLogger - App started
+2019-12-08 14:35:57,096 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 14:36:59,613 [1] INFO InfoLogger - App started
+2019-12-08 14:36:59,647 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 14:38:58,955 [1] INFO InfoLogger - App started
+2019-12-08 14:38:58,992 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 14:39:55,489 [1] INFO InfoLogger - App started
+2019-12-08 14:39:55,527 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 14:52:36,301 [1] INFO InfoLogger - App started
+2019-12-08 14:52:36,340 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 14:54:20,552 [1] INFO InfoLogger - App started
+2019-12-08 14:54:20,591 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 14:55:49,418 [1] INFO InfoLogger - App started
+2019-12-08 14:55:49,453 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:07:44,864 [1] INFO InfoLogger - App started
+2019-12-08 15:07:44,895 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:09:13,350 [1] INFO InfoLogger - App started
+2019-12-08 15:09:13,389 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:10:00,013 [1] INFO InfoLogger - App started
+2019-12-08 15:10:00,048 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:10:09,009 [1] INFO InfoLogger - App started
+2019-12-08 15:10:09,043 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:10:32,449 [1] INFO InfoLogger - App started
+2019-12-08 15:10:32,485 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:11:43,444 [1] INFO InfoLogger - App started
+2019-12-08 15:11:43,480 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:12:11,809 [1] INFO InfoLogger - App started
+2019-12-08 15:12:11,842 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:13:37,976 [1] INFO InfoLogger - App started
+2019-12-08 15:13:38,012 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:14:17,670 [1] INFO InfoLogger - App started
+2019-12-08 15:14:17,704 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:14:44,059 [1] INFO InfoLogger - App started
+2019-12-08 15:14:44,093 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:15:02,857 [1] INFO InfoLogger - App started
+2019-12-08 15:15:02,890 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:17:10,208 [1] INFO InfoLogger - App started
+2019-12-08 15:17:10,245 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:54:09,029 [1] INFO InfoLogger - App started
+2019-12-08 15:54:09,064 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:55:29,191 [1] INFO InfoLogger - App started
+2019-12-08 15:55:29,227 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:57:48,832 [1] INFO InfoLogger - App started
+2019-12-08 15:57:48,865 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:58:16,752 [1] INFO InfoLogger - App started
+2019-12-08 15:58:16,787 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 15:58:47,087 [1] INFO InfoLogger - App started
+2019-12-08 15:58:47,123 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:05:51,332 [1] INFO InfoLogger - App started
+2019-12-08 16:05:51,367 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:07:56,373 [1] INFO InfoLogger - App started
+2019-12-08 16:07:56,408 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:10:20,929 [1] INFO InfoLogger - App started
+2019-12-08 16:10:20,963 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:14:29,343 [1] INFO InfoLogger - App started
+2019-12-08 16:14:29,377 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:15:34,393 [1] INFO InfoLogger - App started
+2019-12-08 16:15:34,429 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:16:46,140 [1] INFO InfoLogger - App started
+2019-12-08 16:16:46,177 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:17:11,269 [1] INFO InfoLogger - App started
+2019-12-08 16:17:11,305 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:18:08,296 [1] INFO InfoLogger - App started
+2019-12-08 16:18:08,333 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:19:26,184 [1] INFO InfoLogger - App started
+2019-12-08 16:19:26,218 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:21:21,689 [1] INFO InfoLogger - App started
+2019-12-08 16:21:21,727 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:21:32,648 [1] INFO InfoLogger - App started
+2019-12-08 16:21:32,681 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:22:54,930 [1] INFO InfoLogger - App started
+2019-12-08 16:22:54,965 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:31:07,054 [1] INFO InfoLogger - App started
+2019-12-08 16:31:07,092 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:32:27,188 [1] INFO InfoLogger - App started
+2019-12-08 16:32:27,225 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:37:47,988 [1] INFO InfoLogger - App started
+2019-12-08 16:37:48,043 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:39:19,244 [1] INFO InfoLogger - App started
+2019-12-08 16:39:19,278 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:39:46,710 [1] INFO InfoLogger - App started
+2019-12-08 16:39:46,749 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:42:50,616 [1] INFO InfoLogger - App started
+2019-12-08 16:42:50,654 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:43:49,597 [1] INFO InfoLogger - App started
+2019-12-08 16:43:49,636 [1] WARN Your_Logger_Name - Bad things happened
+2019-12-08 16:44:01,790 [1] INFO InfoLogger - App started
+2019-12-08 16:44:01,826 [1] WARN Your_Logger_Name - Bad things happened

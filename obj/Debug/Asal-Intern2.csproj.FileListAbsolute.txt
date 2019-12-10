@@ -1,0 +1,9 @@
+/Users/a/Projects/Asal-Intern2/Asal-Intern2/bin/Debug/log4net.config
+/Users/a/Projects/Asal-Intern2/Asal-Intern2/bin/Debug/Asal-Intern2.exe
+/Users/a/Projects/Asal-Intern2/Asal-Intern2/bin/Debug/Asal-Intern2.pdb
+/Users/a/Projects/Asal-Intern2/Asal-Intern2/bin/Debug/log4net.dll
+/Users/a/Projects/Asal-Intern2/Asal-Intern2/bin/Debug/log4net.xml
+/Users/a/Projects/Asal-Intern2/Asal-Intern2/obj/Debug/Asal-Intern2.csproj.CopyComplete
+/Users/a/Projects/Asal-Intern2/Asal-Intern2/obj/Debug/Asal-Intern2.exe
+/Users/a/Projects/Asal-Intern2/Asal-Intern2/obj/Debug/Asal-Intern2.pdb
+/Users/a/Projects/Asal-Intern2/Asal-Intern2/obj/Debug/Asal-Intern2.csprojAssemblyReference.cache
